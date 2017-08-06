@@ -1,0 +1,25 @@
+{
+    "name": "fiisoft/collections",
+    "type": "library",
+    "description": "Some classes to deal with collections.",
+    "keywords": ["collections"],
+    "homepage": "https://github.com/fiiSoft/fiisoft-collections",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "FiiSoft",
+            "email": "fiisoft.production@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "FiiSoft\\Test\\": "tests/",
+            "FiiSoft\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.6.0"
+    }
+}
