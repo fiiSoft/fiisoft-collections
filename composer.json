@@ -5,7 +5,7 @@
     "keywords": ["collections"],
     "homepage": "https://github.com/fiiSoft/fiisoft-collections",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "FiiSoft",
@@ -15,7 +15,6 @@
     ],
     "autoload": {
         "psr-4": {
-            "FiiSoft\\Test\\": "tests/",
             "FiiSoft\\": "src/"
         }
     },
